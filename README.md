@@ -13,7 +13,7 @@ RFM Data Frame preview :
 * This data frame is obtained after perform several steps like cleaning, preprocessing, transformation and standardization.
 
 
-To define the number of cluster will be used for K-Means algorithm several evaluation like elbow method & silhouette chart will be performed.
+To define the number of cluster will be used for K-Means algorithm several evaluation like elbow method & silhouette chart will be performed :
 
 ![image](https://user-images.githubusercontent.com/113236791/208079278-895fce17-089e-4480-82ca-2cf1d35dd0ce.png)
 
