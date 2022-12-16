@@ -21,7 +21,7 @@ To define the number of cluster will be used for K-Means algorithm several evalu
 
 ![image](https://user-images.githubusercontent.com/113236791/208079342-d90c0984-6458-48e4-a982-e2ee561974be.png)
 
-From looking the result from evaluation above, it looks k = 3 is the best fit for this project.
+* From looking the result from evaluation above, it looks k = 3 is the best fit for this project.
 
 Clustering Result 3D View :
 
